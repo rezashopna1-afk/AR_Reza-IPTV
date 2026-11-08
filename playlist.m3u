@@ -1,0 +1,67 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BanglaVision.bd@SD",Bangla Vision (720p)
+https://tvsen5.aynaott.com/banglavision/index.m3u8
+#EXTINF:-1 tvg-id="GaziTV.bd@SD",Gazi TV (720p)
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="MaasrangaTV.bd@SD",Maasranga TV (720p)
+https://tvsen5.aynaott.com/maasrangatv/index.m3u8
+#EXTINF:-1 tvg-id="MatribhumiTV.bd@HD",Matribhumi TV (720p)
+http://live.playmax.live/matribhumi/index.m3u8
+#EXTINF:-1 tvg-id="MovieBangla.bd@SD",Movie Bangla
+http://alvetv.com/moviebanglatv/8080/index.m3u8
+#EXTINF:-1 tvg-id="NexusTV.bd@SD",Nexus TV (576p)
+https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8
+#EXTINF:-1 tvg-id="NTV.bd@SD",NTV (720p)
+https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
+#EXTINF:-1 tvg-id="atnbangla.uk" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/atn_bangla_uk.png" group-title="Bangla",ATN Bangla UK
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="banglatv.bd" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/bangla_tv.png" group-title="Bangla",BANGLA TV
+http://116.204.149.16/banglatv/index.m3u8
+#EXTINF:-1 tvg-id="BOISHAKHITV.bd" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/boishakhi_tv.svg" group-title="Bangla",BOISHAKHI TV
+https://iptvlive.ahmed-bd-org.workers.dev/boishakhi-tv-1/index.m3u8
+#EXTINF:-1 tvg-id="G-Series" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/g_series.png" group-title="Bangla",G-Series
+https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="HUMSitaray.pk" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/hum_sitaray.png" group-title="Pakistan",Hum Sitaray
+https://j6nfugukcl.gpcdn.net/tile_2/master.m3u8
+#EXTINF:-1 tvg-id="ZeeCinema.in@HD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/zee_cinema_hd.png" group-title="India",Zee Cinema HD
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8
+#EXTINF:-1 tvg-id="SonyMax2.in@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/sony_max_2.png" group-title="India",Sony Max 2
+https://drk6xq0vhn.gpcdn.net/live/max_2_abr/index.m3u8
+#EXTINF:-1 tvg-id="sonymaxhd.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/sony_max_hd.png" group-title="India",Sony Max HD
+http://bosstv.click:8080/live/18012689/77561563/97487.ts
+#EXTINF:-1 tvg-id="StarGoldThrills.in@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/star_gold_thrills.png" group-title="India",Star Gold Thrills
+http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/773735.ts
+#EXTINF:-1 tvg-id="StarBharat.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/star_bharat.png" group-title="India",Star Bharat HD
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/UtsavBharat.m3u8
+#EXTINF:-1 tvg-id="StarPlus.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Star_Plus_HD.png" group-title="India",Star Plus HD
+https://d1rc86nwwc9fag.cloudfront.net/260723/starplusuk_2500/chunks.m3u8
+#EXTINF:-1 tvg-id="Channel 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/Channel_1_Logo_Bangladesh.svg" group-title="Bangla News",Channel 1
+https://stream.ottplus.live/live/channel_1_hd_abr/live/channel_1_hd_720/chunks.m3u8
+#EXTINF:-1 tvg-id="DBCNEWSHD.bd" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/9/9f/DBC_News_logo.png" group-title="Bangla News",DBC News HD
+https://iptv-proxy.ahmed-bd-org.workers.dev/dbc-news/index.m3u8
+#EXTINF:-1 tvg-id="NEWS24.bd" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/a/a9/News24_HD_logo_2021.png" group-title="Bangla News",News24 Television
+https://iptvlive.ahmed-bd-org.workers.dev/news-24-hd-1/index.m3u8
+#EXTINF:-1 tvg-id="somoyNEWS.bd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/Somoy_Television.svg" group-title="Bangla News",Somoy News
+https://drk6xq0vhn.gpcdn.net/live/somoy_tv_abr/index.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet.in@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/animal_planet_hindi.png" group-title="India",Animal Planet Hindi
+https://drk6xq0vhn.gpcdn.net/live/animal_planet_sd_abr/index.m3u8
+#EXTINF:-1 tvg-id="ASports.pk" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/a_sports.png" group-title="Sports",A Sports
+http://filex.me:8080/live/03098001921RDB/03098001921RDB/247168.ts
+#EXTINF:-1 tvg-id="History TV18 HD Hindi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/History_TV18_HD_2022.png" group-title="India",History TV18 HD Hindi
+https://n18syndication.akamaized.net/bpk-tv/History_TV18_Hindi_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 tvg-id="JooMusic.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joo_Music.png" group-title="India",Joo Music
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="mohona.bd" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/mohona_tv.svg" group-title="Bangla",Mohona TV
+https://playztv-apps.pages.dev/mohona-tv/index.m3u8
+#EXTINF:-1 tvg-id="mytv.bd" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/my_tv_hd.svg" group-title="Bangla",MY TV HD
+http://116.204.149.16/mytv/index.m3u8
+#EXTINF:-1 tvg-id="nagoriktv.bd" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/nagorik_hd.svg" group-title="Bangla",NAGORIK HD
+https://box.bbaria.net/Nagorik_TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="SATV.tv" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/sa_tv_hd.png" group-title="Bangla",SA TV HD
+http://116.204.149.16/satv/index.m3u8
+#EXTINF:-1 tvg-id="WillowTV.us" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/willow_by_cricbuzz.png" group-title="Sports",Willow Cricbuzz
+https://tvsen5.aynaott.com/willowhd/index.m3u8
+#EXTINF:-1 tvg-id="WillowSports" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/willow_sports.png" group-title="Sports",Willow Sports
+https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8
+#EXTINF:-1 tvg-id="YRFMusicHD" tvg-logo="https://a.jsrdn.com/hls/23146/yrf-music/logo_20240322_175611_70.png" group-title="India",YRF Music HD
+https://vidaa.kableone.com/hls/live/2111218/YrfMusic/1.m3u8
