@@ -3,6 +3,10 @@
 https://iptv-proxy.ahmed-bd-org.workers.dev/channel-i/index.m3u8
 #EXTINF:-1 tvg-id="NTV.bd@SD",NTV (720p)
 https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
+#EXTINF:-1 tvg-id="70e97db9-5a9e-4642-874e-af3d30ba9925" tvg-name="RTV" tvg-logo="https://s3.aynaott.com/storage/094587a26f2c5e4f2962104728ec8c5d" group-title="Bangla",RTV
+https://tvsen5.aynaott.com/RtvHD/index.m3u8?e=1784102560&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=341d28b0504fc6b2cb3fd78fafa0a854
+#EXTINF:-1 tvg-id="9046949b-9847-4b5d-96c1-e82b0734444b" tvg-name="ATN Bangla" tvg-logo="https://s3.aynaott.com/storage/eff41809fca04f7c1da5481e135d7913" group-title="Bangla",ATN Bangla
+https://tvsen5.aynaott.com/atnbangla/index.m3u8?e=1784102561&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=a4c195d9bcdfa5daa8df1dfd6b28455b
 #EXTINF:-1 tvg-name="Desh TV" group-title="Bangladesh",Desh TV
 https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8
 #EXTINF:-1 tvg-name="Ekushe ETV" group-title="Bangladesh",Ekushe ETV
@@ -13,8 +17,10 @@ https://tvsen5.aynaott.com/banglavision/index.m3u8
 https://box.bbaria.net/Nagorik_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="SATV.tv" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/sa_tv_hd.png" group-title="Bangla",SA TV HD
 http://116.204.149.16/satv/index.m3u8
-#EXTINF:-1 tvg-id="asiantv.bd" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/asian_tv.png" group-title="Bangla",ASIAN TV
-https://stream.ottplus.live/live/asian_tv_abr/index.m3u8
+#EXTINF:-1 tvg-id="9a94b22f-c4a4-4150-8eb9-129d0ddeb934" tvg-name="Maasranga TV" tvg-logo="https://s3.aynaott.com/storage/1b5cb8c7901739cd7d201a38d2ab4737" group-title="Bangla",Maasranga TV
+https://tvsen5.aynaott.com/maasrangatv/index.m3u8?e=1784102562&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=2044540ee613d44b1175f2885b2ab1ee
+#EXTINF:-1 tvg-id="0be12af9-e713-4c65-b4ed-b735793a0418" tvg-name="Deepto TV" tvg-logo="https://s3.aynaott.com/storage/76717b7a598a30815a1bdb16ecd3af6c" group-title="Bangla",Deepto TV
+https://tvsen5.aynaott.com/tK2BNdfsdfsdf/index.m3u8?e=1784102563&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=89a6bfdee0a7ecb358080b2c44f18b41
 #EXTINF:-1 tvg-name="Ekhon TV" group-title="Bangladesh",Ekhon TV
 https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/index.m3u8
 #EXTINF:-1 tvg-id="atnnews.bd" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/4d/ATN_News_HD.png" group-title="Bangla News",ATN News
@@ -29,30 +35,28 @@ https://playztv-apps.pages.dev/mohona-tv/index.m3u8
 http://116.204.149.16/mytv/index.m3u8
 #EXTINF:-1 tvg-id="BOISHAKHITV.bd" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/boishakhi_tv.svg" group-title="Bangla",BOISHAKHI TV
 https://iptvlive.ahmed-bd-org.workers.dev/boishakhi-tv-1/index.m3u8
-#EXTINF:-1 tvg-id="atnbangla.uk" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/atn_bangla_uk.png" group-title="Bangla",ATN Bangla UK
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="f7c89459-37bf-4129-904d-33b0a4c0d590" tvg-name="Bijoy TV" tvg-logo="https://s3.aynaott.com/storage/f23d6f82c1a16458fe0e4c6f11b8fd87" group-title="Bangla",Bijoy TV
+https://tvsen6.aynaott.com/N8Xbo5vdwVU6sF43RsW0/index.m3u8?e=1784102572&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=e11a2b199c36c7359982e55ec018196d
+#EXTINF:-1 tvg-id="0ac6af3d-acce-4d9d-9ce5-32d4b53f9326" tvg-name="Global TV" tvg-logo="https://s3.aynaott.com/storage/ffd7ba9b76ad555933f94bcb7ff26b44" group-title="Bangla",Global TV
+https://tvsen6.aynaott.com/y0q9eFAuquAtvTxRzUHq/index.m3u8?e=1784102573&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=3b36e6e9d0ee3e8ec8ddd9a8c61acf71
 #EXTINF:-1 tvg-id="banglatv.bd" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/bangla_tv.png" group-title="Bangla",BANGLA TV
 http://116.204.149.16/banglatv/index.m3u8
 #EXTINF:-1 tvg-id="DBCNEWSHD.bd" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/9/9f/DBC_News_logo.png" group-title="Bangla News",DBC News HD
 https://iptv-proxy.ahmed-bd-org.workers.dev/dbc-news/index.m3u8
 #EXTINF:-1 tvg-id="NEWS24.bd" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/a/a9/News24_HD_logo_2021.png" group-title="Bangla News",News24 Television
 https://iptvlive.ahmed-bd-org.workers.dev/news-24-hd-1/index.m3u8
-#EXTINF:-1 tvg-id="0ac6af3d-acce-4d9d-9ce5-32d4b53f9326" tvg-name="Global TV" tvg-logo="https://s3.aynaott.com/storage/ffd7ba9b76ad555933f94bcb7ff26b44" group-title="Bangla",Global TV
-https://tvsen6.aynaott.com/y0q9eFAuquAtvTxRzUHq/index.m3u8?e=1784102573&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=3b36e6e9d0ee3e8ec8ddd9a8c61acf71
+#EXTINF:-1 tvg-id="4d629b90-cfc2-4426-9eef-62b879efdb02" tvg-name="Asian TV" tvg-logo="https://s3.aynaott.com/storage/5282cec3a2e9349b750540d658cf1b6c" group-title="Bangla",Asian TV
+https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/index.m3u8?e=1784102565&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=e4293f68c5bc8aa8e6ac3e088ca754f4
 #EXTINF:-1 tvg-id="G-Series" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/g_series.png" group-title="Bangla",G-Series
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="c7b00628-bc52-4609-be0a-ad02a16e4c04" tvg-name="Drama 24" tvg-logo="https://s3.aynaott.com/storage/08773290bf83a917aebc07810f12ed49" group-title="Bangla",Drama 24
+https://vods2.aynaott.com/gseriesDrama/index.m3u8
 #EXTINF:-1 tvg-id="GaziTV.bd@SD",Gazi TV (720p)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="MatribhumiTV.bd@HD",Matribhumi TV (720p)
 http://live.playmax.live/matribhumi/index.m3u8
 #EXTINF:-1 tvg-id="MovieBangla.bd@SD",Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
-#EXTINF:-1 tvg-id="custom.madani.tv" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/madani_tv.png" group-title="Religious",Madani TV
-https://tvsen3.aynaott.com/z24qLsqV/index.m3u8
-#EXTINF:-1 tvg-id="TSPORTS.bd" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/t_sports_hd.svg" group-title="Sports",T Sports HD
-http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
-#EXTINF:-1 tvg-name="Sananda TV" group-title="Indian Bangla",Sananda TV
-https://live.sanandatelevision.in/sananda/index.m3u8
 #EXTINF:-1 tvg-id="SRKTV.in@SD",SRK TV (1080p)
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="StarJalsha.in@HD",Star Jalsha HD (720p)
@@ -65,6 +69,8 @@ https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="SangeetBangla.in@SD",Sangeet Bangla (720p)
 https://cdn.pishow.tv/ott/live/1143/master.m3u8
+#EXTINF:-1 tvg-id="DhoomMusic.in@SD",Dhoom Music (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safar
 #EXTINF:-1 tvg-id="RupasiBangla.in@SD",Rupasi Bangla (720p)
 https://cdn.pishow.tv/ott/live/1039/master.m3u8
 #EXTINF:-1 tvg-id="KhushbooBangla.in@SD",Khushboo Bangla (576p)
@@ -80,12 +86,18 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 https://d1rc86nwwc9fag.cloudfront.net/260723/starplusuk_2500/chunks.m3u8
 #EXTINF:-1 tvg-id="Colors.in@SD",Colors (576p)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ColorsAPAC.m3u8
+#EXTINF:-1 tvg-id="DangalTV.in@SD",Dangal TV (720p)
+https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="HUMSitaray.pk" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/hum_sitaray.png" group-title="Pakistan",Hum Sitaray
 https://j6nfugukcl.gpcdn.net/tile_2/master.m3u8
 #EXTINF:-1 tvg-id="StarMaaMovies.in@HD",Star Maa Movies HD (720p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8
 #EXTINF:-1 tvg-id="YRFMusicHD" tvg-logo="https://a.jsrdn.com/hls/23146/yrf-music/logo_20240322_175611_70.png" group-title="India",YRF Music HD
 https://vidaa.kableone.com/hls/live/2111218/YrfMusic/1.m3u8
+#EXTINF:-1 tvg-id="MTV.in@SD",MTV (576p)
+#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+https://yupp-music.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8
 #EXTINF:-1 tvg-id="9XM.in@SD",9XM (576p)
 https://cc-706183qeo55ez.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-706183qeo55ez/DIYC/PMSL/9X/9XMusic_IN/9XMusic_IN.m3u8
 #EXTINF:-1 tvg-id="9XJalwa.in@SD",9X Jalwa (576p)
@@ -101,6 +113,14 @@ https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
 https://cdn.pishow.tv/ott/live/226/master.m3u8
 #EXTINF:-1 tvg-id="SangeetBhojpuri.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/sangeet_bhojpuri.png" group-title="India",Sangeet Bhojpuri
 https://fta.ektv.in/live/349/master.m3u8
+#EXTINF:-1 tvg-id="B4UKadak.in@SD",B4U Kadak (576p)
+https://cdn.pishow.tv/ott/live/227/master.m3u8
+#EXTINF:-1 tvg-id="BhojpuriCinema.in@SD",Bhojpuri Cinema (720p)
+https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-id="GoldminesMovies.in@SD",Goldmines Movies (576p)
+https://mumt04.tangotv.in/m18aqlK4GOLDMINEMOVIES/index.m3u8
+#EXTINF:-1 tvg-id="MahaaMax.in@SD",Mahaa Max (576p)
+https://cdn.pishow.tv/ott/live/1147/master.m3u8
 #EXTINF:-1 tvg-id="ZeeCinema.in@HD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/zee_cinema_hd.png" group-title="India",Zee Cinema HD
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8
 #EXTINF:-1 tvg-id="sonymaxhd.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/sony_max_hd.png" group-title="India",Sony Max HD
@@ -133,6 +153,12 @@ http://27.124.71.27/Willow_Extra/index.m3u8
 https://tvsen5.aynaott.com/willowhd/index.m3u8
 #EXTINF:-1 tvg-id="WillowSports" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/willow_sports.png" group-title="Sports",Willow Sports
 https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8
+#EXTINF:-1 tvg-id="DDSports.in@HD",DD Sports (720p)
+https://mumbai-edge.smartplaytv.in/DDSportsHD/index.m3u8
+#EXTINF:-1 tvg-id="e73ffada-f80a-4c23-9bd8-76142e41c389" tvg-name="Cartoon Network" tvg-logo="https://s3.aynaott.com/storage/a89142109d049ae325fd1681b50bfffb" group-title="Kids",Cartoon Network
+https://tvsen5.aynaott.com/cartoonnetwork/index.m3u8?e=1784102579&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=9563d33da06516fd262e9156a110a8d8
+#EXTINF:-1 tvg-id="WOWKidz.in@Hindi",WOW Kidz (720p)
+https://yuppparoriglin.akamaized.net/181224/smil:wowkidzhindi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="Tiny POP" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/0_tiny_pop.png" group-title="Kids",Tiny POP
 https://amg01753-narrativeuk-amg01753c1-rakuten-uk-2339.playouts.now.amagi.tv/480p/index.m3u8
 #EXTINF:-1 tvg-id="a9791899-66f2-4b94-9521-c333498f7ab9" tvg-name="Disney JR" tvg-logo="https://s3.aynaott.com/storage/31a070024b6516e3738baec70168f0b6" group-title="Kids",Disney JR
