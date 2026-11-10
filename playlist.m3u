@@ -70,7 +70,8 @@ https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg0
 #EXTINF:-1 tvg-id="SangeetBangla.in@SD",Sangeet Bangla (720p)
 https://cdn.pishow.tv/ott/live/1143/master.m3u8
 #EXTINF:-1 tvg-id="DhoomMusic.in@SD",Dhoom Music (576p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/378/master.m3u8
 #EXTINF:-1 tvg-id="RupasiBangla.in@SD",Rupasi Bangla (720p)
 https://cdn.pishow.tv/ott/live/1039/master.m3u8
 #EXTINF:-1 tvg-id="KhushbooBangla.in@SD",Khushboo Bangla (576p)
@@ -127,6 +128,10 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 http://bosstv.click:8080/live/18012689/77561563/97487.ts
 #EXTINF:-1 tvg-id="StarGoldThrills.in@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/star_gold_thrills.png" group-title="India",Star Gold Thrills
 http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/773735.ts
+#EXTINF:-1 tvg-id="StarUtsavMovies.in@SD",Star Utsav Movies (576p)
+http://163.61.226.31:9981/stream/channelid/1225596390?profile=pass
+#EXTINF:-1 tvg-id="Goldmines.in@SD",Goldmines (576p)
+https://tvsen6.aynaott.com/hKrngve2/index.m3u8
 #EXTINF:-1 tvg-id="JooMusic.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joo_Music.png" group-title="India",Joo Music
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="b4584eb3-f1da-4f1c-ac26-f547598ec2ed" tvg-name="MTV" tvg-logo="https://s3.aynaott.com/storage/c0bfcdb40393eb5824907adaaa63a653" group-title="English",MTV
@@ -147,8 +152,6 @@ https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
 http://bosstv.click:8080/live/18012689/77561563/92412.ts
 #EXTINF:-1 tvg-id="BBCEarth" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/bbc_earth.png" group-title="Educational",BBC Earth
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
-#EXTINF:-1 tvg-name="Willow Extra" group-title="Sports",Willow Extra
-http://27.124.71.27/Willow_Extra/index.m3u8
 #EXTINF:-1 tvg-id="WillowTV.us" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/willow_by_cricbuzz.png" group-title="Sports",Willow Cricbuzz
 https://tvsen5.aynaott.com/willowhd/index.m3u8
 #EXTINF:-1 tvg-id="WillowSports" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/willow_sports.png" group-title="Sports",Willow Sports
@@ -167,13 +170,3 @@ https://tvsen7.aynaott.com/disneyjr/index.m3u8?e=1784102580&u=ee5437a7-c16b-4700
 https://tvsen5.aynaott.com/nicktoons/index.m3u8?e=1784102580&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=8eaa14af29c832e9b2b22399a5dfd762
 #EXTINF:-1 tvg-id="c197b1bc-8909-4176-a50f-f855a4a51c1f" tvg-name="Nickjr" tvg-logo="https://s3.aynaott.com/storage/921409bfe77e2e3d32492116bc22fa3e" group-title="Kids",Nickjr
 https://tvsen5.aynaott.com/nickjr/index.m3u8?e=1784102581&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=1a9cf0bc5e79f08de29d345545216d31
-#EXTINF:-1 tvg-id="6aa7469a-89a8-4c46-a141-90fe1fff7893" tvg-name="Discovery Family" tvg-logo="https://s3.aynaott.com/storage/3f7983c0bc7cacd206dd195a2eff6b10" group-title="Kids",Discovery Family
-https://tvsen5.aynaott.com/discoveryfamily/index.m3u8?e=1784102581&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=7551ec4daacd3d773ab2a992615f1f6c
-#EXTINF:-1 tvg-id="1d7ad29d-ee4d-4590-a446-7db6d6aea230" tvg-name="Disney Channel" tvg-logo="https://s3.aynaott.com/storage/a0c74b576321da5aa33a69806401caf1" group-title="Kids",Disney Channel
-https://tvsen7.aynaott.com/disney/index.m3u8?e=1784102582&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=a212272f110a3334f0ef1dab82346a2c
-#EXTINF:-1 tvg-id="1f6fd722-dea2-4463-8938-81e6bdc94189" tvg-name="Disney XD" tvg-logo="https://s3.aynaott.com/storage/f9b945284524683f1de8beb07ded8989" group-title="Kids",Disney XD
-https://tvsen5.aynaott.com/disneyxd/index.m3u8?e=1784102583&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=ef40738201244a8d2cd440ce648b5fc6
-#EXTINF:-1 tvg-id="d188a20a-8640-4511-a228-3a141c675629" tvg-name="Family JR" tvg-logo="https://s3.aynaott.com/storage/ca9edd253c97a2c67fcd856f43a31702" group-title="Kids",Family JR
-https://tvsen5.aynaott.com/familyjr/index.m3u8?e=1784102583&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=f07cdf73f07a49d18a334d98b734ddf4
-#EXTINF:-1 tvg-id="d8c19a31-9752-40cd-a392-fb95928a66b8" tvg-name="Nickelodeon" tvg-logo="https://s3.aynaott.com/storage/bb2375af2d1ff8666f2c24fbcec3c541" group-title="Kids",Nickelodeon
-https://tvsen7.aynaott.com/nicklodean/index.m3u8?e=1784102584&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=81eb7a6fadc0212e5a961b40ee037c49
