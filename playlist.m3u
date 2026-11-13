@@ -73,8 +73,8 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Colors Bangla Cinema (576p)
 https://livetv.shamon-cable.net:8443/Colors-bangla-cinema/index.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Sony Aath (1080p)
-https://dai.google.com/linear/hls/event/j-YEIDwORxubtP_967VcZg/master.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_8/images/LOGO_HD/image.png" group-title="Undefined",Sony Aath (1080p)
+http://27.124.71.27/Sony_Aath/index.m3u8?checkedby:iptvcat.net
 #EXTINF:-1 tvg-id="Enterr10Bangla.in@SD",Enterr 10 Bangla (720p)
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="SangeetBangla.in@SD",Sangeet Bangla (720p)
