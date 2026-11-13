@@ -71,6 +71,11 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b19
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8
 #EXTINF:-1 tvg-id="JalshaMovies.in@SD",Jalsha Movies (1080p)
 https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Colors Bangla Cinema (576p)
+https://livetv.shamon-cable.net:8443/Colors-bangla-cinema/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Sony Aath (1080p)
+https://dai.google.com/linear/hls/event/j-YEIDwORxubtP_967VcZg/master.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_8/images/LOGO_HD/image.png" group-title="Undefined",Sony Aath (1080p)
 #EXTINF:-1 tvg-id="Enterr10Bangla.in@SD",Enterr 10 Bangla (720p)
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="SangeetBangla.in@SD",Sangeet Bangla (720p)
@@ -89,6 +94,8 @@ https://fta.ektv.in/live/375/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/202/master.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",ABP Ananda (576p)
+https://mumt05.tangotv.in/87NeALx2ABPANANDA/index.m3u8?checkedby:iptvcat.net
 #EXTINF:-1 tvg-id="StarBharat.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/star_bharat.png" group-title="India",Star Bharat HD
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/UtsavBharat.m3u8
 #EXTINF:-1 tvg-id="StarPlus.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Star_Plus_HD.png" group-title="India",Star Plus HD
@@ -97,6 +104,8 @@ https://d1rc86nwwc9fag.cloudfront.net/260723/starplusuk_2500/chunks.m3u8
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ColorsAPAC.m3u8
 #EXTINF:-1 tvg-id="DangalTV.in@SD",Dangal TV (720p)
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Zee TV HD (720p) [Geo-blocked]
+http://41.205.93.154/ZEE-TV/index.m3u8?checkedby:iptvcat.net
 #EXTINF:-1 tvg-id="HUMSitaray.pk" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/hum_sitaray.png" group-title="Pakistan",Hum Sitaray
 https://j6nfugukcl.gpcdn.net/tile_2/master.m3u8
 #EXTINF:-1 tvg-id="StarMaaMovies.in@HD",Star Maa Movies HD (720p)
@@ -126,6 +135,8 @@ https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 https://mumt04.tangotv.in/m18aqlK4GOLDMINEMOVIES/index.m3u8
 #EXTINF:-1 tvg-id="MahaaMax.in@SD",Mahaa Max (576p)
 https://cdn.pishow.tv/ott/live/1147/master.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Star Gold Select (1080p)
+https://livetv.shamon-cable.net:8443/StarGoldSelect/index.m3u8?checkedby:iptvcat.net
 #EXTINF:-1 tvg-id="ZeeCinema.in@HD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/zee_cinema_hd.png" group-title="India",Zee Cinema HD
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8
 #EXTINF:-1 tvg-id="sonymaxhd.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/sony_max_hd.png" group-title="India",Sony Max HD
@@ -134,10 +145,14 @@ http://bosstv.click:8080/live/18012689/77561563/97487.ts
 http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/773735.ts
 #EXTINF:-1 tvg-id="Goldmines.in@SD",Goldmines (576p)
 https://tvsen6.aynaott.com/hKrngve2/index.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Star Movies HD (1080p)
+https://livetv.shamon-cable.net:8443/Star-Movies/index.m3u8?checkedby:iptvcat.net
 #EXTINF:-1 tvg-id="JooMusic.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joo_Music.png" group-title="India",Joo Music
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="b4584eb3-f1da-4f1c-ac26-f547598ec2ed" tvg-name="MTV" tvg-logo="https://s3.aynaott.com/storage/c0bfcdb40393eb5824907adaaa63a653" group-title="English",MTV
-https://tvsen6.aynaott.com/mtv/index.m3u8?e=1784102610&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=b99f4b905260714794250d1410a936a2
+#EXTINF:0 tvg-country="SA" tvg-logo="" group-title="Movies;Undefined",Movies Action (1080p)
+https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="SA" tvg-logo="" group-title="Movies;Undefined",Movies Thriller (1080p)
+https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8?checkedby:iptvcat.net
 #EXTINF:-1 tvg-id="MBCBollywood.ae@SD",MBC Bollywood (1080p) [Geo-blocked]
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
 #EXTINF:-1 tvg-id="SonyMovies.us@SD" tvg-name="Sony Movies" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png" group-title="United States" x-tier="community" x-status="verified" x-quality="720p",Sony Movies
@@ -162,8 +177,10 @@ https://wildearth-plex.amagi.tv/master.m3u8
 https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/playlist.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-name="4k Love Natural" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",4k Love Natural
 https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8#fb:M3U_World_4K
-#EXTINF:-1 tvg-id="WillowTV.us" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/willow_by_cricbuzz.png" group-title="Sports",Willow Cricbuzz
-https://tvsen5.aynaott.com/willowhd/index.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",FashionTV (576p)
+http://163.61.226.31:9981/stream/channelid/943090988?profile=pass&checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Sport",DD Sports HD (1080p)
+https://fta.ektv.in/live/280/master.m3u8?checkedby:iptvcat.net
 #EXTINF:-1 tvg-name="A SPORTS" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",A SPORTS
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD" tvg-name="beIN SPORTS XTRA" tvg-country="US" tvg-language="English" tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="United States" x-tier="community" x-status="verified" x-quality="1080p",beIN SPORTS XTRA
