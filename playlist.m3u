@@ -130,6 +130,8 @@ https://cdn.pishow.tv/ott/live/227/master.m3u8
 https://vidaa.kableone.com/hls/live/2111218/YrfMusic/1.m3u8
 #EXTINF:-1 tvg-id="9XM.in@SD",9XM (576p)
 https://cc-706183qeo55ez.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-706183qeo55ez/DIYC/PMSL/9X/9XMusic_IN/9XMusic_IN.m3u8
+#EXTINF:-1 tvg-id="EpicMusic.in@Digital" tvg-name="Epic Music (Digital)" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0032BWBW.png?lock=720x540" group-title="India" x-tier="community" x-status="verified" x-quality="1080p",Epic Music (Digital)
+https://cc-3cyxq80qusspd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/playlist.m3u8
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="",Mastiii (576p)
 https://mumbai-edge.smartplaytv.in/MastiMusic/index.m3u8?checkedby:iptvcat.net
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="",Music India (576p)
