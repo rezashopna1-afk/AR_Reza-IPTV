@@ -71,6 +71,8 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b19
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8
 #EXTINF:-1 tvg-id="JalshaMovies.in@SD",Jalsha Movies (1080p)
 https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Sun Bangla" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Sun Bangla
+http://27.124.71.27/Sun_Bangla/index.m3u8#fb:M3U_World_4K
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Colors Bangla Cinema (576p)
 https://livetv.shamon-cable.net:8443/Colors-bangla-cinema/index.m3u8?checkedby:iptvcat.net
 #EXTINF:0 tvg-country="IN" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_8/images/LOGO_HD/image.png" group-title="Undefined",Sony Aath (1080p)
@@ -151,6 +153,8 @@ https://n18syndication.akamaized.net/bpk-tv/History_TV18_Hindi_NW18_MOB/output01
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 #EXTINF:-1 tvg-name="TRAVEL XP" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",TRAVEL XP
 https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://imglink.cc/cdn/eEZmseF3Tb.jpg", Wild Earth
+https://wildearth-plex.amagi.tv/master.m3u8
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="",FashionTV (576p)
 http://163.61.226.31:9981/stream/channelid/943090988?profile=pass&checkedby:iptvcat.net
 #EXTINF:-1 tvg-name="4k Love Natural" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",4k Love Natural
@@ -159,6 +163,8 @@ https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8#fb:M3U_World_4K
 https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
 #EXTINF:0 tvg-country="IN" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MOVIES_NOW/images/LOGO_HD/image.png" group-title="",Movies Now HD (576p)
 http://27.124.71.27/Movies_Now/index.m3u8?checkedby:iptvcat.nts
+#EXTINF:0 tvg-country="IN" tvg-logo="https://logo.m3uassets.com/starmoviesselect.png" group-title="",Star Movies ()
+https://p4kp.rjmbts.workers.dev/349.m3u8?checkedby:iptvcat.net
 #EXTINF:0 tvg-country="SA" tvg-logo="" group-title="Movies;Undefined",Movies Action (1080p)
 https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8?checkedby:iptvcat.net
 #EXTINF:0 tvg-country="SA" tvg-logo="" group-title="Movies;Undefined",Movies Thriller (1080p)
@@ -187,8 +193,8 @@ https://fta.ektv.in/live/280/master.m3u8?checkedby:iptvcat.net
 https://d9ssxzmclhfo4.cloudfront.net/bein_sports.m3u8
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="",Epic Crimes (1080p)
 https://cc-wsuyg2uxeak04.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wsuyg2uxeak04/master.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="",R Plus (576p)
-https://mumt05.tangotv.in/87NeALx2RPLUS/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="",Epic Crimes (1080p)
+https://cc-wsuyg2uxeak04.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wsuyg2uxeak04/master.m3u8?checkedby:iptvcat.net
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="",R Plus Gold (576p)
 https://fta.ektv.in/live/198/master.m3u8?checkedby:iptvcat.net
 #EXTINF:-1 tvg-id="DhoomMusic.in@SD",Dhoom Music (576p)
@@ -198,19 +204,23 @@ https://fta.ektv.in/live/378/master.m3u8
 https://cdn.pishow.tv/ott/live/1039/master.m3u8
 #EXTINF:0 tvg-country="DZ;BH;IQ;SA" tvg-logo="https://i.imgur.com/BcXASJp.png" group-title="",MBC 4 (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8?checkedby:iptvcat.net
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://imglink.cc/cdn/eEZmseF3Tb.jpg", Wild Earth
-https://wildearth-plex.amagi.tv/master.m3u8
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="",Kolkata TV (576p)
 https://cdn.pishow.tv/ott/live/1511/master.m3u8?checkedby:iptvcat.net
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="",Zee 24 Ghanta
 https://d2dsoyvkr33m05.cloudfront.net/index_4.m3u8?checkedby:iptvcat.net
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="",NDTV (576p)
 https://cdn.pishow.tv/ott/live/315/master.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="",NDTV (576p)
-https://cdn.pishow.tv/ott/live/315/master.m3u8?checkedby:iptvcat.net
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="",Zee News (576p)
 https://fta.ektv.in/live/294/master.m3u8?checkedby:iptvcat.net
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",ABP Ananda (576p)
 https://mumt05.tangotv.in/87NeALx2ABPANANDA/index.m3u8?checkedby:iptvcat.net
-#EXTINF:-1 tvg-name="Sun Bangla" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Sun Bangla
-http://27.124.71.27/Sun_Bangla/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="e73ffada-f80a-4c23-9bd8-76142e41c389" tvg-name="Cartoon Network" tvg-logo="https://s3.aynaott.com/storage/a89142109d049ae325fd1681b50bfffb" group-title="Kids",Cartoon Network
+https://tvsen5.aynaott.com/cartoonnetwork/index.m3u8?e=1784102579&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=9563d33da06516fd262e9156a110a8d8
+#EXTINF:-1 tvg-id="Tiny POP" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/0_tiny_pop.png" group-title="Kids",Tiny POP
+https://amg01753-narrativeuk-amg01753c1-rakuten-uk-2339.playouts.now.amagi.tv/480p/index.m3u8
+#EXTINF:-1 tvg-id="a9791899-66f2-4b94-9521-c333498f7ab9" tvg-name="Disney JR" tvg-logo="https://s3.aynaott.com/storage/31a070024b6516e3738baec70168f0b6" group-title="Kids",Disney JR
+https://tvsen7.aynaott.com/disneyjr/index.m3u8?e=1784102580&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=6a87c2e077df270ccd0de2c2e611177c
+#EXTINF:-1 tvg-id="3830c379-539b-4e18-9943-9664574c850b" tvg-name="Nicktoons" tvg-logo="https://s3.aynaott.com/storage/a130687320f6b07db4bc3729b9d5e96e" group-title="Kids",Nicktoons
+https://tvsen5.aynaott.com/nicktoons/index.m3u8?e=1784102580&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=8eaa14af29c832e9b2b22399a5dfd762
+#EXTINF:-1 tvg-id="c197b1bc-8909-4176-a50f-f855a4a51c1f" tvg-name="Nickjr" tvg-logo="https://s3.aynaott.com/storage/921409bfe77e2e3d32492116bc22fa3e" group-title="Kids",Nickjr
+https://tvsen5.aynaott.com/nickjr/index.m3u8?e=1784102581&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=1a9cf0bc5e79f08de29d345545216d31
