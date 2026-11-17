@@ -27,8 +27,6 @@ https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/index.m3u8
 https://iptvlive.ahmed-bd-org.workers.dev/atn-news-1/index.m3u8
 #EXTINF:-1 tvg-name="Ananda TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Ananda TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/live-orgin/anandatv.stream/playlist.m3u8#fb:M3U_World_4K
-#EXTINF:-1 tvg-id="TSPORTS.bd" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/t_sports_hd.svg" group-title="Sports",T Sports HD
-http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
 #EXTINF:-1 tvg-id="1a7a1365-ae2c-470f-9fb2-25c6e83bb108" tvg-name="Ekattor TV" tvg-logo="https://s3.aynaott.com/storage/d91767995b2f2a54852c92bbbc20daa7" group-title="News",Ekattor TV
 https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8?e=1784102532&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=3b9afdda2bd5332e8f49ed7dfa321a06
 #EXTINF:-1 tvg-id="mohona.bd" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/mohona_tv.svg" group-title="Bangla",Mohona TV
@@ -71,10 +69,10 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b19
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8
 #EXTINF:-1 tvg-id="JalshaMovies.in@SD",Jalsha Movies (1080p)
 https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Sun Bangla" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Sun Bangla
-http://27.124.71.27/Sun_Bangla/index.m3u8#fb:M3U_World_4K
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Colors Bangla Cinema (576p)
-https://livetv.shamon-cable.net:8443/Colors-bangla-cinema/index.m3u8?checkedby:iptvcat.net
+#EXTINF:-1 tvg-name="Colors Bangla [Backup 1]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Colors Bangla [Backup 1]
+https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="DD Bangla" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",DD Bangla
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index.m3u8#fb:M3U_World_4K
 #EXTINF:0 tvg-country="IN" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_8/images/LOGO_HD/image.png" group-title="Undefined",Sony Aath (1080p)
 http://27.124.71.27/Sony_Aath/index.m3u8?checkedby:iptvcat.net
 #EXTINF:-1 tvg-id="Enterr10Bangla.in@SD",Enterr 10 Bangla (720p)
@@ -86,12 +84,22 @@ https://cdn.pishow.tv/ott/live/1473/master.m3u8?checkedby:iptvcat.net
 #EXTINF:-1 tvg-id="RongeenTV.in@SD",Rongeen TV (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/202/master.m3u8
+#EXTINF:-1 tvg-name="ZB Cartun TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",ZB Cartun TV
+https://server.zillarbarta.com/zbcatun/video.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-id="WOWKidz.in@Hindi",WOW Kidz (720p)
 https://yuppparoriglin.akamaized.net/181224/smil:wowkidzhindi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="",Epic Kids Digital (1080p)
 https://cc-t8lqe1o99pszu.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t8lqe1o99pszu/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:-1 tvg-logo="https://gia.tv/streams/pptv/208314.jpg?1750373428" group-title="Kids",Tom And Jerry (720p) [Not 24/7]
+https://183.giatvcdn.com/giatvplayout7/giatv-208314/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pash.ink/storage/uploads/JungleBook_Logo.png" group-title="Kids",The Jungle Book (1080p)
+https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qIoipDq.png" group-title="Kids",Minika Go (720p)
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="",Sony Entertainment Television HD (1080p)
 http://38.96.178.205/SONYHD/index.m3u8?checkedby:iptvcat.net
+#EXTINF:-1 tvg-name="Zee Tamil" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Zee Tamil
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:zeetamil1.smil/playlist.m3u8#fb:M3U_World_4K
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="",Shemaroo TV (576p)
 https://streams.tangotv.in/SHEMAROOTV/ORIGIN/index.m3u8?checkedby:iptvcat.net
 #EXTINF:-1 tvg-id="StarBharat.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/star_bharat.png" group-title="India",Star Bharat HD
@@ -102,20 +110,20 @@ https://d1rc86nwwc9fag.cloudfront.net/260723/starplusuk_2500/chunks.m3u8
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ColorsAPAC.m3u8
 #EXTINF:-1 tvg-id="DangalTV.in@SD",Dangal TV (720p)
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="",Hi Dost! (720p)
+https://cdn.pishow.tv/ott/live/224/master.m3u8?checkedby:iptvcat.net
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="",Dangal 2 (576p)
 https://fta.ektv.in/live/18/master.m3u8?checkedby:iptvcat.net
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Zee TV HD (720p) [Geo-blocked]
 http://41.205.93.154/ZEE-TV/index.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="",Hi Dost! (720p)
-https://cdn.pishow.tv/ott/live/224/master.m3u8?checkedby:iptvcat.net
 #EXTINF:-1 tvg-id="HUMSitaray.pk" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/hum_sitaray.png" group-title="Pakistan",Hum Sitaray
 https://j6nfugukcl.gpcdn.net/tile_2/master.m3u8
 #EXTINF:-1 tvg-id="StarMaaMovies.in@HD",Star Maa Movies HD (720p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8
+#EXTINF:-1 tvg-name="Hindi Movie Classic 24" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Hindi Movie Classic 24
+https://vods2.aynaott.com/hindimovies/index.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-id="ZeeCinema.in@HD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/zee_cinema_hd.png" group-title="India",Zee Cinema HD
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8
-#EXTINF:-1 tvg-id="Goldmines.in@SD",Goldmines (576p)
-https://tvsen6.aynaott.com/hKrngve2/index.m3u8
 #EXTINF:-1 tvg-id="JooMusic.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joo_Music.png" group-title="India",Joo Music
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="BhojpuriCinema.in@SD",Bhojpuri Cinema (720p)
@@ -151,6 +159,12 @@ https://fta.ektv.in/live/349/master.m3u8
 https://n18syndication.akamaized.net/bpk-tv/History_TV18_Hindi_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 tvg-id="BBCEarth" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/bbc_earth.png" group-title="Educational",BBC Earth
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
+#EXTINF:-1 tvg-name="Nat Geo TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Nat Geo TV
+https://tvsen6.aynaott.com/natgeo/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="DISCOVERY SCIENCE Hindi" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",DISCOVERY SCIENCE Hindi
+http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/4745.ts#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="INWILD" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",INWILD
+https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/ts-eu-w1-n2/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-name="TRAVEL XP" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",TRAVEL XP
 https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/playlist.m3u8#fb:M3U_World_4K
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://imglink.cc/cdn/eEZmseF3Tb.jpg", Wild Earth
@@ -165,6 +179,10 @@ https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
 http://27.124.71.27/Movies_Now/index.m3u8?checkedby:iptvcat.nts
 #EXTINF:0 tvg-country="IN" tvg-logo="https://logo.m3uassets.com/starmoviesselect.png" group-title="",Star Movies ()
 https://p4kp.rjmbts.workers.dev/349.m3u8?checkedby:iptvcat.net
+#EXTINF:-1 tvg-name="Action Hollywood Movies" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Action Hollywood Movies
+https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Cine Action FR" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Cine Action FR
+http://iptv.prosto.tv:7000/ch50/video.m3u8#fb:M3U_World_4K
 #EXTINF:0 tvg-country="SA" tvg-logo="" group-title="Movies;Undefined",Movies Action (1080p)
 https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8?checkedby:iptvcat.net
 #EXTINF:0 tvg-country="SA" tvg-logo="" group-title="Movies;Undefined",Movies Thriller (1080p)
@@ -183,6 +201,12 @@ https://cdn.pishow.tv/ott/live/1147/master.m3u8?checkedby:iptvcat.net
 https://fta.ektv.in/live/467/master.m3u8?checkedby:iptvcat.net
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="",Oscar Movies Bhojpuri (576p)
 https://mumt05.tangotv.in/87NeALx2OSCARMOVIESBHOJPURI/index.m3u8?checkedby:iptvcat.net
+#EXTINF:-1 tvg-name="WILLOW CRICKET HD" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",WILLOW CRICKET HD
+https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-Willow1.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="WILLOW CRICKET 2 HD" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",WILLOW CRICKET 2 HD
+https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-Willow2.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Fox Sports 501" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Fox Sports 501
+https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/FOX501HD.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-name="A SPORTS" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",A SPORTS
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-name="Star Sports 2" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Star Sports 2
