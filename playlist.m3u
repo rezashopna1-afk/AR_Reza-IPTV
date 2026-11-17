@@ -7,6 +7,8 @@ https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
 https://tvsen5.aynaott.com/RtvHD/index.m3u8?e=1784102560&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=341d28b0504fc6b2cb3fd78fafa0a854
 #EXTINF:-1 tvg-name="Jamuna TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Jamuna TV
 https://iptv-proxy.ahmed-bd-org.workers.dev/jamuna-tv/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="120.Channel 1" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",120.Channel 1
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-name="Desh TV" group-title="Bangladesh",Desh TV
 https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8
 #EXTINF:-1 tvg-name="Ekushe ETV" group-title="Bangladesh",Ekushe ETV
@@ -23,8 +25,12 @@ https://tvsen5.aynaott.com/maasrangatv/index.m3u8?e=1784102562&u=ee5437a7-c16b-4
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-name="Ekhon TV" group-title="Bangladesh",Ekhon TV
 https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/index.m3u8
+#EXTINF:-1 tvg-name="Jago News 24" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Jago News 24
+https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-id="atnnews.bd" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/4d/ATN_News_HD.png" group-title="Bangla News",ATN News
 https://iptvlive.ahmed-bd-org.workers.dev/atn-news-1/index.m3u8
+#EXTINF:-1 tvg-name="Channel S" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Channel S
+https://app.ncare.live/live-orgin/channels.stream/live-orgin/channels.stream/chunks.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-name="Ananda TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Ananda TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/live-orgin/anandatv.stream/playlist.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-id="1a7a1365-ae2c-470f-9fb2-25c6e83bb108" tvg-name="Ekattor TV" tvg-logo="https://s3.aynaott.com/storage/d91767995b2f2a54852c92bbbc20daa7" group-title="News",Ekattor TV
@@ -94,6 +100,8 @@ https://cc-t8lqe1o99pszu.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://183.giatvcdn.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pash.ink/storage/uploads/JungleBook_Logo.png" group-title="Kids",The Jungle Book (1080p)
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
+#EXTINF:-1 tvg-id="e73ffada-f80a-4c23-9bd8-76142e41c389" tvg-name="Cartoon Network" tvg-logo="https://s3.aynaott.com/storage/a89142109d049ae325fd1681b50bfffb" group-title="Kids",Cartoon Network
+https://tvsen5.aynaott.com/cartoonnetwork/index.m3u8?e=1784102579&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=9563d33da06516fd262e9156a110a8d8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qIoipDq.png" group-title="Kids",Minika Go (720p)
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="",Sony Entertainment Television HD (1080p)
@@ -155,22 +163,20 @@ https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 https://cdn.pishow.tv/ott/live/415/master.m3u8
 #EXTINF:-1 tvg-id="SangeetBhojpuri.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/sangeet_bhojpuri.png" group-title="India",Sangeet Bhojpuri
 https://fta.ektv.in/live/349/master.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="",FashionTV (576p)
+http://163.61.226.31:9981/stream/channelid/943090988?profile=pass&checkedby:iptvcat.net
 #EXTINF:-1 tvg-id="History TV18 HD Hindi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/History_TV18_HD_2022.png" group-title="India",History TV18 HD Hindi
 https://n18syndication.akamaized.net/bpk-tv/History_TV18_Hindi_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 tvg-id="BBCEarth" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/bbc_earth.png" group-title="Educational",BBC Earth
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 #EXTINF:-1 tvg-name="Nat Geo TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Nat Geo TV
 https://tvsen6.aynaott.com/natgeo/index.m3u8#fb:M3U_World_4K
-#EXTINF:-1 tvg-name="DISCOVERY SCIENCE Hindi" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",DISCOVERY SCIENCE Hindi
-http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/4745.ts#fb:M3U_World_4K
 #EXTINF:-1 tvg-name="INWILD" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",INWILD
 https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/ts-eu-w1-n2/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-name="TRAVEL XP" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",TRAVEL XP
 https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/playlist.m3u8#fb:M3U_World_4K
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://imglink.cc/cdn/eEZmseF3Tb.jpg", Wild Earth
 https://wildearth-plex.amagi.tv/master.m3u8
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="",FashionTV (576p)
-http://163.61.226.31:9981/stream/channelid/943090988?profile=pass&checkedby:iptvcat.net
 #EXTINF:-1 tvg-name="4k Love Natural" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",4k Love Natural
 https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/cgtn_documentary.png" group-title="Educational",CGTN Documentary
@@ -181,8 +187,6 @@ http://27.124.71.27/Movies_Now/index.m3u8?checkedby:iptvcat.nts
 https://p4kp.rjmbts.workers.dev/349.m3u8?checkedby:iptvcat.net
 #EXTINF:-1 tvg-name="Action Hollywood Movies" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Action Hollywood Movies
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8#fb:M3U_World_4K
-#EXTINF:-1 tvg-name="Cine Action FR" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Cine Action FR
-http://iptv.prosto.tv:7000/ch50/video.m3u8#fb:M3U_World_4K
 #EXTINF:0 tvg-country="SA" tvg-logo="" group-title="Movies;Undefined",Movies Action (1080p)
 https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8?checkedby:iptvcat.net
 #EXTINF:0 tvg-country="SA" tvg-logo="" group-title="Movies;Undefined",Movies Thriller (1080p)
@@ -236,8 +240,6 @@ https://cdn.pishow.tv/ott/live/315/master.m3u8?checkedby:iptvcat.net
 https://fta.ektv.in/live/294/master.m3u8?checkedby:iptvcat.net
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",ABP Ananda (576p)
 https://mumt05.tangotv.in/87NeALx2ABPANANDA/index.m3u8?checkedby:iptvcat.net
-#EXTINF:-1 tvg-id="e73ffada-f80a-4c23-9bd8-76142e41c389" tvg-name="Cartoon Network" tvg-logo="https://s3.aynaott.com/storage/a89142109d049ae325fd1681b50bfffb" group-title="Kids",Cartoon Network
-https://tvsen5.aynaott.com/cartoonnetwork/index.m3u8?e=1784102579&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=9563d33da06516fd262e9156a110a8d8
 #EXTINF:-1 tvg-id="Tiny POP" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/0_tiny_pop.png" group-title="Kids",Tiny POP
 https://amg01753-narrativeuk-amg01753c1-rakuten-uk-2339.playouts.now.amagi.tv/480p/index.m3u8
 #EXTINF:-1 tvg-id="a9791899-66f2-4b94-9521-c333498f7ab9" tvg-name="Disney JR" tvg-logo="https://s3.aynaott.com/storage/31a070024b6516e3738baec70168f0b6" group-title="Kids",Disney JR
