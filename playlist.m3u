@@ -163,8 +163,8 @@ https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 https://cdn.pishow.tv/ott/live/415/master.m3u8
 #EXTINF:-1 tvg-id="SangeetBhojpuri.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/sangeet_bhojpuri.png" group-title="India",Sangeet Bhojpuri
 https://fta.ektv.in/live/349/master.m3u8
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="",FashionTV (576p)
-http://163.61.226.31:9981/stream/channelid/943090988?profile=pass&checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/FTV_HD.png" group-title="",FashionTV
+https://samitaorigin.tangotv.in/FASHIONTV/SAMITAORIGIN/index.m3u8?checkedby:iptvcat.net
 #EXTINF:-1 tvg-id="History TV18 HD Hindi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/History_TV18_HD_2022.png" group-title="India",History TV18 HD Hindi
 https://n18syndication.akamaized.net/bpk-tv/History_TV18_Hindi_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 tvg-id="BBCEarth" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/bbc_earth.png" group-title="Educational",BBC Earth
